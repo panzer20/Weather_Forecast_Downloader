@@ -1,4 +1,4 @@
-Project name: Weather Forecast Downloader
+## Project name: Weather Forecast Downloader
 
 A simple command-line Python program that fetches and displays the current weather forecast for a given location. This project is an improved version of an example from the book *Automate the Boring Stuff with Python* (Polish Edition, 2017) by Albert Sweigart.
 
