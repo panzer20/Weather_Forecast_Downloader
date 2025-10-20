@@ -30,18 +30,23 @@ This repository was created as part of my learning journey in Python programming
 1. Clone this repository or download the `weather.py` script.
 2. Install required Python packages if you haven't already:
 
+   ```
    pip install requests
+   ```
 
 3. Create an account at [OpenWeatherMap](https://openweathermap.org/) and generate your free API key.
 4. Open the `weather.py` file and replace the `api_key` variable with your personal key:
 
+   ```
    api_key = 'YOUR_API_KEY'
+   ```
 
 5. Run the program from the command line, providing the city as an argument:
 
+   ```
    python weather.py Warsaw
-
-
+   ```
+   
 ## Example Output
 
 ```
